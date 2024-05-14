@@ -57,7 +57,7 @@
     }
 
     .menuItems {
-        /* display: none; */
+        display: none; 
         flex-direction: column;
         align-items: center;
         gap: 13px; 
