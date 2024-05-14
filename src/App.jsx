@@ -1,12 +1,12 @@
 
-import './App.css'
+import styles from './App.module.css'; 
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <>
-      <h1>Hello World!</h1>
+      <h1 className={styles.App}>Hello World!</h1>
     </>
   )
 }
