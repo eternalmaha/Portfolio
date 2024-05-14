@@ -1,14 +1,14 @@
-
 import styles from './App.module.css'; 
+import { Navbar } from './components/Navbar/Navbar';
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
-      <h1 className={styles.App}>Hello World!</h1>
+      <nav className={styles.App}>
+        <Navbar /> 
+      </nav>
     </>
   )
 }
 
-export default App
+export default App 
