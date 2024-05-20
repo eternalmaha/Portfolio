@@ -20,6 +20,10 @@
       "imageSrc": "skills/mongodb.png"
     },
     {
+        "title": "Python",
+        "imageSrc": "skills/python.png"
+    },
+    {
       "title": "Figma",
       "imageSrc": "skills/figma.png"
     }
