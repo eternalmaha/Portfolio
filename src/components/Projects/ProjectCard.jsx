@@ -2,7 +2,7 @@ import React from "react";
 import { getImageUrl } from '../../utils';
 
 export const ProjectCard = ({
-    projects: {title, imageSrc, description, skills, demo, source}
+    project: {title, imageSrc, description, skills, demo, source}
 }) => {
     return (
         <div> 
