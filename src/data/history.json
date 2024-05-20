@@ -1,0 +1,18 @@
+[
+    {
+      "role": "Software Engineer Fellow",
+      "organisation": "100Devs",
+      "startDate": "Oct, 2022",
+      "endDate": "Present",
+      "experiences": ["Built tool to track users' note-taking", "Improved users' organizational skills and free time"],
+      "imageSrc": "#"
+    },
+    {
+      "role": "Freelance Web Developer",
+      "organisation": "Custom Code Solutions",
+      "startDate": "March, 2023",
+      "endDate": "Present",
+      "experiences": ["Worked on client Portfolio Sites", "Increased internet traffic by 35%"],
+      "imageSrc": "#"
+    }
+  ]
