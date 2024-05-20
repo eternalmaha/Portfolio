@@ -11,7 +11,7 @@ export const About = () => {
                     <img className = {styles.aboutImg} src = {getImageUrl()} alt = "About image"/> 
                     <ul className={styles.aboutItems}>
                             <li className={styles.aboutItem}>
-                                <img className={styles.aboutImg} src = {getImageUrl()} alt = "front-end dev icon"/> 
+                                <img className={styles.aboutImg} src = {getImageUrl("about/cursorIcon.png")} alt = "front-end dev icon"/> 
                                 <div className={styles.aboutItemText}>
                                     <h3> Front End Developer </h3>
                                     <p>
@@ -20,7 +20,7 @@ export const About = () => {
                                 </div>
                             </li>
                             <li className={styles.aboutItem}>
-                                <img className={styles.aboutImg} src = {getImageUrl()} alt = "back-end dev icon"/>   
+                                <img className={styles.aboutImg} src = {getImageUrl("about/serverIcon.png")} alt = "back-end dev icon"/>   
                                 <div className={styles.aboutItemText}>
                                     <h3> Back End Developer </h3>
                                     <p>
@@ -29,7 +29,7 @@ export const About = () => {
                                 </div>
                             </li>
                             <li className={styles.aboutItem}>
-                                <img className={styles.aboutImg} src = {getImageUrl()} alt = "technical writing icon"/> 
+                                <img className={styles.aboutImg} src = {getImageUrl("about/uiIcon.png")} alt = "technical writing icon"/> 
                                 <div className={styles.aboutItemText} >
                                     <h3> Technical Writer </h3>
                                     <p>
