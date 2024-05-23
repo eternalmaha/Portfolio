@@ -7,7 +7,8 @@
     background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
     box-shadow: 0 16px 14px 0 #04152d;
     padding: 18px 24px;
-    max-width: 345px;
+    max-width: 450px;
+   
 }
 
 .image {
@@ -27,10 +28,11 @@
 
 .skills {
     width: 100%; 
+    height:max-content;
     margin-top: 14px;
     display: flex; 
     flex-direction: row;
-    flex-wrap: wrap; 
+    flex-wrap: wrap;
     gap: 6px;
     list-style: none;
 }
