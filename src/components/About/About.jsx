@@ -13,27 +13,27 @@ export const About = () => {
                             <li className={styles.aboutItem}>
                                 <img className={styles.aboutImg} src = {getImageUrl("about/cursorIcon.png")} alt = "front-end dev icon"/> 
                                 <div className={styles.aboutItemText}>
-                                    <h3> Front End Developer </h3>
+                                
                                     <p>
-                                        Passionate about building and designing responsive and optimized websites tailored to the needs of purpose driven businesses. 
-                                    </p>
+                                        The unique combination of creativity, logic, technology and never running out of new things to discover, drives my excitement and passion for web development. I'm not just a web developer — I'm a digital storyteller, crafting websites that blend creativity with functionality. With a passion for design and a knack for coding, I create vibrant, engaging web experiences that bring your brand to life. 
+                                    </p> 
                                 </div>
                             </li>
                             <li className={styles.aboutItem}>
                                 <img className={styles.aboutImg} src = {getImageUrl("about/serverIcon.png")} alt = "back-end dev icon"/>   
                                 <div className={styles.aboutItemText}>
-                                    <h3> Back End Developer </h3>
+                
                                     <p>
-                                        Committed to delivering fast and optimized backend systems and API's. 
+                                    My journey into web development started with a childhood fascination for how things work, and it blossomed into a career where I get to turn ideas into interactive, beautiful realities. Whether it’s a quirky portfolio site, a dynamic e-commerce platform, or a sleek business page, I believe in infusing each project with a bit of whimsy and a lot of heart.
                                     </p>
                                 </div>
                             </li>
                             <li className={styles.aboutItem}>
                                 <img className={styles.aboutImg} src = {getImageUrl("about/uiIcon.png")} alt = "technical writing icon"/> 
                                 <div className={styles.aboutItemText} >
-                                    <h3> Technical Writer </h3>
+                    
                                     <p>
-                                        Digestable technical content written for all levels based on years of learning the game. 
+                                    When I’m not behind the screen, you’ll find me exploring local coffee shops, nature, sketching out new ideas, or playing with my adorable (and occasionally mischievous) cat, Malik. I thrive on collaboration and love working with local small businesses to help them shine online.
                                     </p>
                                 </div>
                             </li>
