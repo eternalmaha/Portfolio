@@ -8,20 +8,21 @@
     flex-direction: row;
     justify-content: space-evenly;
     width: 100%;
-    padding: 58px 10%;
+    padding: 58px 5%;
     gap: 10px;
     
 }
 
 .text h2 {
-    font-size: 80px;
+    font-size: 70px;
     font-weight: 700;
     letter-spacing: 4px;
+
 
 }
 
 .text p {
-    font-size: 40px;
+    font-size: 30px;
     font-weight: 400;
     letter-spacing: 2px;
 
@@ -32,18 +33,14 @@
     flex-direction: column;
     align-items: flex-start;
     list-style: none;
-    gap: 26px;
-    margin-left: 10%;
-    margin-right: 10%;
-   
-
+    gap: 26px; 
+    word-break: break-all;
 }
 
 .link {
     display: flex;
     align-items: center;
     gap: 25px;
-   
 
 
 }
@@ -82,13 +79,13 @@
     }
 
     .text h2 {
-        font-size: 5vw; /* Reduce font size for smaller screens */
-        margin-bottom: 10px;
+        font-size: 6vw; /* Reduce font size for smaller screens */
+        margin-bottom: 15px;
         letter-spacing: 2px;
     }
 
     .text p {
-        font-size: 4vw; /* Reduce font size for smaller screens */
+        font-size: 5vw; /* Reduce font size for smaller screens */
         letter-spacing: 1px;
     }
 
@@ -96,4 +93,4 @@
         font-size: 15px; /* Reduce font size for links */
         letter-spacing: 1px;
     }
-}
+} 
