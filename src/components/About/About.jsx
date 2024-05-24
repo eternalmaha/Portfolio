@@ -13,7 +13,6 @@ export const About = () => {
                             <li className={styles.aboutItem}>
                                 <img className={styles.aboutImg} src = {getImageUrl("about/cursorIcon.png")} alt = "front-end dev icon"/> 
                                 <div className={styles.aboutItemText}>
-                                
                                     <p>
                                         The unique combination of creativity, logic, technology and never running out of new things to discover, drives my excitement and passion for web development. I'm not just a web developer — I'm a digital storyteller, crafting websites that blend creativity with functionality. With a passion for design and a knack for coding, I create vibrant, engaging web experiences that bring your brand to life. 
                                     </p> 
