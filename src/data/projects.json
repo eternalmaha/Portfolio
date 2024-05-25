@@ -2,7 +2,7 @@
     {
       "title": "G.O.R.A.D Lab",
       "imageSrc": "projects/goradlab.png",
-      "description": "A portfolio site built to showcase the research and work of G.O.R.A.D Lab.",
+      "description": "Business page built to showcase the research and work of G.O.R.A.D Lab.",
       "skills": ["React", "Node"],
       "demo": "https://goradlab.vercel.app/",
       "source": "https://github.com/maha4peace/G.O.R.A.D-Lab/"
@@ -10,7 +10,7 @@
     {
       "title": "Claudia Cogan",
       "imageSrc": "projects/claudia.png",
-      "description": "A portfolio site built to showcase the talent of local comedian, Claudia Cogan.",
+      "description": "Portfolio site for talented local comedian, Claudia Cogan.",
       "skills": ["HTML", "CSS", "JavaScript"],
       "demo": "https://www.claudiacogan.com",
       "source": "https://github.com/maha4peace/ComedySite"
